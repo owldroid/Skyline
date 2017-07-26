@@ -2,47 +2,80 @@
 	"wallpapers": [
 		{
 			"name": "Wallpaper 1",
-			"url": "https://image.ibb.co/diRTdF/wallpaper1.png"
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/diRTdF/wallpaper1.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhanidze. All rights reserved."
 		},
 		{
 			"name": "Wallpaper 2",
-			"url": "https://image.ibb.co/htfAsa/wallpaper2.png"
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/htfAsa/wallpaper2.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhanidze. All rights reserved."
 		},
 		{
 			"name": "Wallpaper 3",
-			"url": "https://image.ibb.co/ewM0FQ/wallpaper3.png"
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/ewM0FQ/wallpaper3.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhanidze. All rights reserved."
 		},
 		{
 			"name": "Wallpaper 4",
-			"url": "https://image.ibb.co/cTcwpk/wallpaper4.jpg"
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/cTcwpk/wallpaper4.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhanidze. All rights reserved."
 		},
 		{
 			"name": "Wallpaper 5",
-			"url": "https://image.ibb.co/cPOxvQ/wallpaper5.png"
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/cPOxvQ/wallpaper5.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhanidze. All rights reserved."
 		},
 		{
 			"name": "Wallpaper 6",
-			"url": "https://image.ibb.co/btskh5/wallpaper6.png"
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/btskh5/wallpaper6.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhanidze. All rights reserved."
 		},
 		{
 			"name": "Wallpaper 7",
-			"url": "https://image.ibb.co/m182Uk/wallpaper7.png"
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/m182Uk/wallpaper7.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhanidze. All rights reserved."
 		},
 		{
 			"name": "Wallpaper 8",
-			"url": "https://image.ibb.co/fEDmpk/wallpaper8.png"
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/fEDmpk/wallpaper8.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhanidze. All rights reserved."
 		},
 		{
 			"name": "Wallpaper 9",
-			"url": "https://image.ibb.co/dhCPaQ/wallpaper9.png"
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/dhCPaQ/wallpaper9.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhanidze. All rights reserved."
 		},
 		{
 			"name": "Wallpaper 10",
-			"url": "https://image.ibb.co/ep3iKk/wallpaper10.png"
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/ep3iKk/wallpaper10.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhanidze. All rights reserved."
 		},
 		{
 			"name": "Wallpaper 11",
-			"url": "https://image.ibb.co/bGRpQQ/wallpaper11.png"
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/bGRpQQ/wallpaper11.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhanidze. All rights reserved."
 		}
 		
 	]
