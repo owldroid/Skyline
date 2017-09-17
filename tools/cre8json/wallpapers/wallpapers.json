@@ -1,6 +1,7 @@
 {
-	"wallpapers": [
-		{
+    "Wallpapers":
+        [
+	    {
 			"author": "Levan Lobzhanidze",
 			"url": "https://image.ibb.co/diRTdF/wallpaper1.png",
 			"thumbUrl":"https://image.ibb.co/diRTdF/wallpaper1.png",
@@ -263,7 +264,6 @@
 			"url": "https://image.ibb.co/h0KZQQ/wallpaper44.png",
 			"thumbUrl": "https://image.ibb.co/h0KZQQ/wallpaper44.png",
 			"name": "Wallpaper 44",
-		}
-		
-	]
+			    }
+        ]
 }
